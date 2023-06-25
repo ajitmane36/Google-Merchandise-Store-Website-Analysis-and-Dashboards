@@ -1,5 +1,7 @@
 # `Google Merchandise Store Website Analysis`
 
+--Ajit Mane (ajitmane36@gmail.com)
+
 #### <ins>`Dashboard Link`</ins> - [Click Here](https://lookerstudio.google.com/s/jEu-5W4sb1s)
 
 This repository contains the analysis of the "Google Merchandise Store" website using Google Analytics data and the corresponding dashboards created on Google Data Studio (Lookers Studio).
