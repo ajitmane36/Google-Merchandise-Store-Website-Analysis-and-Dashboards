@@ -1,31 +1,30 @@
-# Google Merchandise Store Website Analysis
+# `Google Merchandise Store Website Analysis`
 
-#### <ins>Dashboard Link</ins> - [Click Here](https://lookerstudio.google.com/s/jEu-5W4sb1s)
+#### <ins>`Dashboard Link`</ins> - [Click Here](https://lookerstudio.google.com/s/jEu-5W4sb1s)
 
 This repository contains the analysis of the "Google Merchandise Store" website using Google Analytics data and the corresponding dashboards created on Google Data Studio (Lookers Studio).
 
-## About the Project
+## `About the Project`
 
 The purpose of this project is to analyze the performance and user behavior of the Google Merchandise Store website. The analysis is based on the data collected from Google Analytics, which provides valuable insights into various metrics and dimensions related to the website's traffic, conversions, and user engagement.
 
-## Data Collection and Processing
+## `Data Collection and Processing`
 
 1. The data used for this analysis is collected from Google Analytics, which tracks and records user interactions on the website.
 2. The data is exported from Google Analytics in a suitable format (e.g., CSV) and stored in the "data" folder of this repository.
 
-## Dashboard Creation
+## `Dashboard Creation`
 
 1. The dashboards for visualizing the Google Merchandise Store website analysis are created using Lookers Studio.
 2. The dashboards provide interactive visualizations and summaries of key metrics and dimensions, enabling users to gain insights and make data-driven decisions.
 3. The dashboards are designed to be user-friendly, visually appealing, and informative.
 
-## Repository Structure
+## `Repository Structure`
 
-- `data/`: This folder contains the raw data exported from Google Analytics.
 - `dashboard/`: This folder contains the dashboard files created on Google Data Studio.
 - `README.md`: This readme file providing an overview of the repository and its contents.
 
-## Dashboard Usage
+## `Dashboard Usage`
 
 To access the interactive dashboard, follow these steps:
 
@@ -35,7 +34,7 @@ To access the interactive dashboard, follow these steps:
 - Interact with the charts, tables, and graphs to drill down into specific metrics and dimensions.
 
 
-## Conclusion
+## `Conclusion`
 
 - Traffic Sources: The majority of website visitors come from organic search, indicating the effectiveness of search engine optimization strategies. Referral traffic and direct traffic also contribute significantly to the website's overall traffic.
 
